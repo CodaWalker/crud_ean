@@ -1,17 +1,17 @@
 {
   "products": [
     {
-      "name": "Milk",
-      "sku": "1D2F",
+      "name": "Chocolate",
+      "sku": "1Q3D",
       "price": "2",
-      "createdAt": "11/18/2018",
+      "createdAt": "11/19/2018",
       "id": 1
     },
     {
-      "name": "Apple ",
-      "sku": "1C4R",
-      "price": "3",
-      "createdAt": "11/18/2018",
+      "name": "Apple",
+      "sku": "1S4A",
+      "price": "1",
+      "createdAt": "11/19/2018",
       "id": 2
     }
   ]

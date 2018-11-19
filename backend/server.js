@@ -9,7 +9,7 @@ const port = 4000;
 
 app.use(cors());
 
-app.use(bodyParser.json());
+//app.use(bodyParser.json());
 
 app.get('/', urlencodedParser, function (req, res) {
     res.send('Welcome, ' + 'User' +
