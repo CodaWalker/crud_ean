@@ -1,0 +1,10 @@
+table {
+  width: 100%;
+}
+
+.mat-column-right {
+  text-align: center;
+}
+.pr-10 {
+  padding-right: 10px;
+}

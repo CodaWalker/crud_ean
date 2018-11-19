@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Milk",
+      "sku": "1D2F",
+      "price": "2",
+      "createdAt": "11/18/2018",
+      "id": 1
+    },
+    {
+      "name": "Apple ",
+      "sku": "1C4R",
+      "price": "3",
+      "createdAt": "11/18/2018",
+      "id": 2
+    }
+  ]
+}
