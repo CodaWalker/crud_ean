@@ -10,7 +10,9 @@ READ all products
 UPDATE a product 
 DELETE a product
 
-Instead of using a database to store our products, simply create a file called “products.json” and store all the data in that file. When you create a product, append it to that file, when deleting, find the product and update. Don’t worry about security or authentication. 
+Instead of using a database to store our products, simply create a file called “products.json”
+and store all the data in that file. When you create a product, append it to that file, when deleting,
+find the product and update. Don’t worry about security or authentication. 
 
 Product Model:
 
