@@ -1,3 +1,32 @@
+****************************************************************************************************************************************
+TASK
+
+Description: 
+
+Create a REST API using Node.js & Express.js for managing products. The API should support the following:
+
+CREATE a product
+READ all products
+UPDATE a product 
+DELETE a product
+
+Instead of using a database to store our products, simply create a file called “products.json” and store all the data in that file. When you create a product, append it to that file, when deleting, find the product and update. Don’t worry about security or authentication. 
+
+Product Model:
+
+{
+	name: String,
+	sku: String,
+	price: Number,
+	createdAt: Date
+}
+    
+
+****************************************************************************************************************************************
+RESULT
+
+Install and Start:    
+    
     To work, you must run two scripts!
 Start frontend
 {
